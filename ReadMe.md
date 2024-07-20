@@ -1,4 +1,6 @@
-# About Who I Am:
+# Hello There 👋
+
+## About Who I Am:
 
 I am Alex, a current undergraduate student at the University of California, Merced. My primary course work has given me elementry exposure to core CS foundationals, such as Algorithms & Design, Data Structures, Linear Algebra and Applications of Parallel Computing. 
 
@@ -10,3 +12,4 @@ I am  Visiting Student in the Parallel Computing Summer Research program at Los 
 
 ## Contact
 Feel free to reach out to me. Let's Collaborate!
+# 🧑🏻‍💻🧑🏻‍🔬☕️📝🏫
