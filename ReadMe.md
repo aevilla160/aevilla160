@@ -10,4 +10,5 @@ I am  Visiting Student in the Parallel Computing Summer Research program at Los 
 
 ## Contact
 Feel free to reach out to me. Let's Collaborate!
+aevilla160@gmail.com
 # 🧑🏻‍💻🧑🏻‍🔬☕️📝🏫
