@@ -4,7 +4,7 @@
 
 I am Alex, a current undergraduate student at the University of California, Merced. 
 
-My main research interests are in Collective Communication(MPI, NCCL), GPU Offloading and data paralellism. 
+My main research interests are in Collective Communication(MPI, NCCL), GPU Offloading and data parallelism. 
 
 
 ## Contact
