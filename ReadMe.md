@@ -9,7 +9,7 @@ My main research interests are in Distributed Memory Parallelism(MPI, NCCL), and
 
 ### "For the Long Tail of Science"
 
-### I'm a computer scientist living in an applied mathmaticians' world. 
+### "A Computer Scientist Living in an Applied Mathmaticians' World" 
 
 ## Contact
 Feel free to reach out to me. Let's Collaborate!
