@@ -12,7 +12,7 @@ My main research interests are in Distributed Memory Parallelism(MPI, NCCL), and
 ### "A Computer Scientist Living in an Applied Mathmaticians' World" 
 
 ## Contact
-Feel free to reach out to me. Let's Collaborate!
+Feel free to reach out to me: `avilla[at]lanl[dot]gov` . Let's Collaborate!
 # 🧑🏻‍💻🧑🏻‍🔬☕️🍋📝🏫
 
 ### Github Image Credit 
