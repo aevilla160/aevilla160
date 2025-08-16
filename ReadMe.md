@@ -11,6 +11,8 @@ My main research interests are in Distributed Memory Parallelism(MPI, NCCL), and
 
 ### "A Computer Scientist Living in an Applied Mathmaticians' World" 
 
+### "It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong."  - Richard P Feynman
+
 ## Contact
 Feel free to reach out to me: `avilla[at]lanl[dot]gov` . Let's Collaborate!
 # 🧑🏻‍💻🧑🏻‍🔬☕️🍋📝🏫
