@@ -8,7 +8,9 @@ My main research interests are in Distributed Memory Parallelism(MPI, NCCL), and
 
 
 **"For the Long Tail of Science"**
+
 **"You Don’t Have to Know Everything. You Just Have to Know Where to Find It"**
+
 **"It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong**  - Richard P Feynman
 
 ## Contact
