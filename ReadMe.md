@@ -13,6 +13,11 @@ My main research interests are in Distributed Memory Parallelism(MPI, NCCL), and
 
 **"It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong**  - Richard P Feynman
 
+**"Truth is much too complicated to allow anything but approximations"** – John Von Neumann
+
+**"Although this may seem a paradox, all exact science is dominated by the idea of approximation"** – Bertrand Russell. 
+
+
 ## Contact
 Feel free to reach out to me: `avilla[at]lanl[dot]gov` . Let's Collaborate!
 # 🧑🏻‍💻🧑🏻‍🔬☕️🍋📝🏫
