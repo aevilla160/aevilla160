@@ -26,5 +26,3 @@ Feel free to reach out to me: `avilla[at]lanl[dot]gov` . Let's Collaborate!
 Cover of An `Introduction to Parallel Programming with OpenMP, PThreads and MPI – by Robert Cook`
 All pic credits to the respective author. 
 
-
-https://drive.google.com/drive/folders/1xiFcQgcIc589UM5Awo0ThgPWobi73Pio?usp=sharing
