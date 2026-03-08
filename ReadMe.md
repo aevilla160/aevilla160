@@ -2,7 +2,8 @@
 
 ## About Who I Am:
 
-I am Alex, a current undergraduate student at the University of California, Merced. 
+I am Alex, a current undergraduate student at the University of California, Merced.
+I am incoming PhD student @_______ 👀
 
 My main research interests are in Distributed Memory Parallelism(MPI, NCCL), and scalable parallel algorithm designs and their applications to deep learning and computational physics.
 
