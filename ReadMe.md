@@ -4,8 +4,12 @@
 
 I am Alex, a current undergraduate student at the University of California, Merced.
 
->[!Note]
->I am an incoming PhD student @_______ 👀👀
+<details>
+  <summary>“If I have seen further, it is by standing on the shoulders of giants.” — Isaac Newton</summary>
+
+  I am an incoming PhD student @ ......... 👀
+
+</details>
 
 My main research interests are in Distributed Memory Parallelism(MPI, NCCL), and scalable parallel algorithm designs and their applications to deep learning and computational physics.
 More specifically I am interetsed in developing tools and approaches for scalable irregular and non-uniform workloads. 
