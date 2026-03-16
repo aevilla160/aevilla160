@@ -2,7 +2,7 @@
 
 ## About Who I Am:
 
-I am Alex, a current undergraduate student at the University of California, Merced.
+I am a current undergraduate student at the University of California, Merced.
 
 <details>
   <summary>“If I have seen further, it is by standing on the shoulders of giants.” — Isaac Newton</summary>
