@@ -31,6 +31,6 @@ Feel free to reach out to me: `alex.villa[atttttt]ufl[dotttttt]edu` .
 # 🧑🏻‍💻🧑🏻‍🔬☕️🍋📝🏫
 
 ### Github Image Credit 
-Cover of An `Introduction to Parallel Programming with OpenMP, PThreads and MPI – by Robert Cook`
+Cover of my varitation of `Introduction to Parallel Programming with OpenMP, PThreads and MPI – by Robert Cook`s cover
 All pic credits to the respective author. 
 
