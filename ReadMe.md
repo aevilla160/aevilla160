@@ -27,7 +27,7 @@ More specifically I am interetsed in developing tools and approaches for scalabl
 
 
 ## Contact
-Feel free to reach out to me: `avilla[at]lanl[dot]gov` . Let's Collaborate!
+Feel free to reach out to me: `alex.villa[atttttt]ufl[dotttttt]gov` . 
 # 🧑🏻‍💻🧑🏻‍🔬☕️🍋📝🏫
 
 ### Github Image Credit 
