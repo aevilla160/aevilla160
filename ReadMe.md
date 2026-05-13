@@ -6,8 +6,12 @@ I am a current undergraduate student at the University of California, Merced.
 
 <details>
   <summary>“If I have seen further, it is by standing on the shoulders of giants.” — Isaac Newton</summary>
+  
+</details>
+<details>
+  <summary> I am an incoming PhD student @ the University of Florida advised by Professor Xiaoyi Lu</summary>
 
-  I am an incoming PhD student @ the University of Oregon `:>`
+Last Switch I promise
 
 </details>
 
